@@ -23,7 +23,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WaterExtras",
+			"Name": "Buoyancy",
 			"Enabled": true
 		}
 	]
